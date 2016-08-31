@@ -1,4 +1,4 @@
-<<<<<<< .mine
+
 hello
 how 
 are
@@ -6,4 +6,4 @@ are
 hello
 hi
 
->>>>>>> .theirs
+
