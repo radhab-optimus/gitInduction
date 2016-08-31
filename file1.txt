@@ -1,3 +1,9 @@
+<<<<<<< .mine
 hello
 how 
 are
+=======
+hello
+hi
+
+>>>>>>> .theirs
